@@ -7,6 +7,7 @@ def curfew_checker(time)
   if >=11
     puts""
   else
+    puts""
 end
 
 def complex_curfew_checker(time)
